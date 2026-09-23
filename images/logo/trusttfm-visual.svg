@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 400" fill="none">
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#d6dddd"/></pattern><pattern id="grid" width="49" height="40" patternUnits="userSpaceOnUse"><path d="M49 0H0V40" stroke="#b0bfbf" stroke-width="1"/></pattern><clipPath id="shield"><path d="M173 92h176v98c0 56-37 90-88 115-51-25-88-59-88-115Z"/></clipPath></defs>
+<path fill="url(#dots)" d="M0 0h440v400H0z"/>
+<g transform="translate(25 106) rotate(-9 132 105)"><rect x="0" y="0" width="250" height="203" rx="5" fill="#eef2f2" stroke="#b4c4c4"/><path d="M0 34h250" stroke="#b4c4c4"/><circle cx="15" cy="17" r="3" fill="#788e8e"/><circle cx="27" cy="17" r="3" fill="#788e8e"/><circle cx="39" cy="17" r="3" fill="#788e8e"/><path d="M0 0h245v160H0z" transform="translate(3 37)" fill="url(#grid)"/><path d="M53 38h48v39H53zM151 118h48v39h-48z" fill="#d9e6e6"/></g>
+<path d="M183 105h176v98c0 56-37 90-88 115-51-25-88-59-88-115Z" fill="#d4e1e1"/>
+<path d="M173 92h176v98c0 56-37 90-88 115-51-25-88-59-88-115Z" fill="#008080" stroke="#008080" stroke-width="3"/>
+<g clip-path="url(#shield)">
+<path d="M231 92v213M291 92v213M173 145h176M173 198h176" stroke="#fff" stroke-width="9"/>
+<path d="M236 203h50v102h-50z" fill="#a52a2a"/>
+</g>
+<circle cx="363" cy="65" r="17" fill="#a52a2a"/><path d="M356 65h14M363 58v14" stroke="#fff" stroke-width="1.5"/>
+<path d="M53 326h65M85.5 319v14M350 343h27M363.5 329.5v27" stroke="#889c9c" stroke-width="1"/>
+<circle cx="111" cy="56" r="5" stroke="#889c9c"/><path d="M295 335v22h-75" stroke="#b0bfbf" stroke-dasharray="3 4"/>
+<rect x="178" y="345" width="60" height="23" rx="3" fill="#f7f8f8"/><text x="184" y="360" font-family="monospace" font-size="9" fill="#677676">TrustTFM</text>
+</svg>

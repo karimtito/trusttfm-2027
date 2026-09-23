@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 124" role="img" aria-label="TrustTFM">
+  <defs>
+    <clipPath id="shield">
+      <path d="M16 10 H112 V62 A48 48 0 0 1 64 110 A48 48 0 0 1 16 62 Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shield)">
+    <rect x="16" y="10" width="96" height="104" fill="#008080"/>
+    <g stroke="#ffffff" stroke-width="6" fill="none">
+      <line x1="48" y1="10" x2="48" y2="110"/>
+      <line x1="80" y1="10" x2="80" y2="110"/>
+      <line x1="16" y1="38" x2="112" y2="38"/>
+      <line x1="16" y1="66" x2="112" y2="66"/>
+    </g>
+    <rect x="51" y="69" width="26" height="41" fill="#a52a2a"/>
+  </g>
+  <text x="138" y="86"
+        font-family="Ubuntu Sans, Ubuntu, sans-serif"
+        font-size="60" font-weight="500" letter-spacing="0.5"
+        fill="#333333">
+    <tspan fill="#a52a2a">Trust</tspan><tspan fill="#333333">TFM</tspan>
+  </text>
+</svg>

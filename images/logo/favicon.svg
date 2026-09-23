@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="TrustTFM">
+  <defs>
+    <clipPath id="shield">
+      <path d="M16 14 H112 V66 A48 48 0 0 1 64 114 A48 48 0 0 1 16 66 Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#shield)">
+    <rect x="16" y="14" width="96" height="104" fill="#008080"/>
+    <g stroke="#ffffff" stroke-width="6" fill="none">
+      <line x1="48" y1="14" x2="48" y2="114"/>
+      <line x1="80" y1="14" x2="80" y2="114"/>
+      <line x1="16" y1="42" x2="112" y2="42"/>
+      <line x1="16" y1="70" x2="112" y2="70"/>
+    </g>
+    <rect x="51" y="73" width="26" height="41" fill="#a52a2a"/>
+  </g>
+</svg>
