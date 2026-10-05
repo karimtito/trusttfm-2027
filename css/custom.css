@@ -469,6 +469,10 @@ strong {
   margin-top:16px;
 }
 
+.cmt-acknowledgment {
+  margin:0 0 32px;
+}
+
 .dates-panel .text-link {
   margin-top:18px;
 }
@@ -702,6 +706,12 @@ strong {
 .notice p {
   font-size:.88rem;
   margin-top:10px;
+}
+
+.notice .button {
+  width:100%;
+  justify-content:space-between;
+  margin-top:18px;
 }
 
 .on-this-page {
