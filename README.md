@@ -49,7 +49,7 @@ The original Bulma stylesheet and SaTML logo are retained as assets. The current
 
 ## Content to finalize
 
-- Confirm the exact workshop date, venue, and morning/afternoon time slot. The program currently uses the proposal's tentative 09:00–13:00 schedule.
+- Confirm the venue and morning/afternoon time slot. The program currently uses the proposal's tentative 09:00–13:00 schedule.
 - Add the applicable SaTML 2027 AI, Open Science, and Proactive Prevention of Harm policy links.
 - Add confirmed invited speakers, accepted papers, and program committee members.
 - Keep the submission and notification dates synchronized in `index.html` and `cfp.html`.
