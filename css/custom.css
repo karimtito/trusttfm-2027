@@ -887,6 +887,16 @@ pre {
   margin-bottom:23px;
 }
 
+.organizer-photo {
+  display:block;
+  width:96px;
+  height:96px;
+  margin-bottom:23px;
+  border-radius:50%;
+  object-fit:cover;
+  background:var(--light);
+}
+
 .organizer-role {
   font-size:.76rem;
   color:var(--green);
